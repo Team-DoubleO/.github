@@ -231,8 +231,3 @@ frontend/
 
 - 문화 빅데이터
   플랫폼: [공공체육시설 프로그램 정보](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=c3b8fb69-307d-4ae7-ab42-d0314c89ef47)
-
-## 9. 저장소
-
-- **Backend**: [@Team-DoubleO/backend](https://github.com/Team-DoubleO/backend)
-- **Frontend**: [@Team-DoubleO/frontend](https://github.com/Team-DoubleO/frontend)
